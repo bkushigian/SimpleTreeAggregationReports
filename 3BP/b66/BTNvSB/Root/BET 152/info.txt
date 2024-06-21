@@ -1,0 +1,7 @@
+IP Decision
+Node id: r:0:b152
+Board: Th 9d 8c
+Line: Root,BET 152
+Starting stacks: 880
+
+Report done without weighting flops.

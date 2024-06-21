@@ -1,0 +1,7 @@
+IP Decision
+Node id: r:0:c
+Board: 7c 5d 2c
+Line: Root,CHECK
+Starting stacks: 980
+
+Report done without weighting flops.
