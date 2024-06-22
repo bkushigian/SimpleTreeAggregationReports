@@ -1,0 +1,7 @@
+OOP Decision
+Node id: r:0:c:b15:b60:b970
+Board: Th 9d 8c
+Line: Root,CHECK,BET 15,RAISE 60,RAISE 970
+Starting stacks: 970
+
+Report done without weighting flops.

@@ -1,0 +1,7 @@
+OOP Decision
+Node id: r:0
+Board: Jc 6c 2d
+Line: Root
+Starting stacks: 970
+
+Report done without weighting flops.
