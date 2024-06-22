@@ -1,0 +1,7 @@
+OOP Decision
+Node id: r:0:c:c:2h
+Board: Th 9d 8c 2h
+Line: Root,CHECK,CHECK,2h
+Starting stacks: 880
+
+Report done without weighting flops.
